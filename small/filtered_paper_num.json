@@ -1,0 +1,304 @@
+{
+  "data": [
+    {
+      "fos": "Data security",
+      "year": 2012,
+      "paperNums": 118
+    },
+    {
+      "fos": "Data security",
+      "year": 2015,
+      "paperNums": 153
+    },
+    {
+      "fos": "Data security",
+      "year": 2016,
+      "paperNums": 122
+    },
+    {
+      "fos": "Data security",
+      "year": 2011,
+      "paperNums": 120
+    },
+    {
+      "fos": "Data security",
+      "year": 2014,
+      "paperNums": 128
+    },
+    {
+      "fos": "Data security",
+      "year": 2013,
+      "paperNums": 119
+    },
+    {
+      "fos": "Cloud computing security",
+      "year": 2012,
+      "paperNums": 728
+    },
+    {
+      "fos": "Cloud computing security",
+      "year": 2011,
+      "paperNums": 564
+    },
+    {
+      "fos": "Cloud computing security",
+      "year": 2015,
+      "paperNums": 803
+    },
+    {
+      "fos": "Cloud computing security",
+      "year": 2013,
+      "paperNums": 849
+    },
+    {
+      "fos": "Cloud computing security",
+      "year": 2014,
+      "paperNums": 821
+    },
+    {
+      "fos": "Cloud computing security",
+      "year": 2016,
+      "paperNums": 614
+    },
+    {
+      "fos": "Support vector machine",
+      "year": 2012,
+      "paperNums": 2808
+    },
+    {
+      "fos": "Support vector machine",
+      "year": 2015,
+      "paperNums": 3092
+    },
+    {
+      "fos": "Support vector machine",
+      "year": 2014,
+      "paperNums": 3007
+    },
+    {
+      "fos": "Support vector machine",
+      "year": 2016,
+      "paperNums": 2839
+    },
+    {
+      "fos": "Support vector machine",
+      "year": 2011,
+      "paperNums": 2703
+    },
+    {
+      "fos": "Support vector machine",
+      "year": 2013,
+      "paperNums": 2772
+    },
+    {
+      "fos": "Information security",
+      "year": 2013,
+      "paperNums": 293
+    },
+    {
+      "fos": "Information security",
+      "year": 2012,
+      "paperNums": 278
+    },
+    {
+      "fos": "Information security",
+      "year": 2015,
+      "paperNums": 285
+    },
+    {
+      "fos": "Information security",
+      "year": 2014,
+      "paperNums": 320
+    },
+    {
+      "fos": "Information security",
+      "year": 2011,
+      "paperNums": 291
+    },
+    {
+      "fos": "Information security",
+      "year": 2016,
+      "paperNums": 258
+    },
+    {
+      "fos": "Virtual machine",
+      "year": 2013,
+      "paperNums": 1177
+    },
+    {
+      "fos": "Virtual machine",
+      "year": 2015,
+      "paperNums": 1041
+    },
+    {
+      "fos": "Virtual machine",
+      "year": 2014,
+      "paperNums": 1124
+    },
+    {
+      "fos": "Virtual machine",
+      "year": 2011,
+      "paperNums": 1133
+    },
+    {
+      "fos": "Virtual machine",
+      "year": 2016,
+      "paperNums": 897
+    },
+    {
+      "fos": "Virtual machine",
+      "year": 2012,
+      "paperNums": 1123
+    },
+    {
+      "fos": "Finite-state machine",
+      "year": 2014,
+      "paperNums": 347
+    },
+    {
+      "fos": "Finite-state machine",
+      "year": 2012,
+      "paperNums": 459
+    },
+    {
+      "fos": "Finite-state machine",
+      "year": 2011,
+      "paperNums": 428
+    },
+    {
+      "fos": "Finite-state machine",
+      "year": 2013,
+      "paperNums": 424
+    },
+    {
+      "fos": "Finite-state machine",
+      "year": 2015,
+      "paperNums": 322
+    },
+    {
+      "fos": "Finite-state machine",
+      "year": 2016,
+      "paperNums": 292
+    },
+    {
+      "fos": "Deep learning",
+      "year": 2015,
+      "paperNums": 1055
+    },
+    {
+      "fos": "Deep learning",
+      "year": 2014,
+      "paperNums": 454
+    },
+    {
+      "fos": "Deep learning",
+      "year": 2013,
+      "paperNums": 205
+    },
+    {
+      "fos": "Deep learning",
+      "year": 2016,
+      "paperNums": 1884
+    },
+    {
+      "fos": "Deep learning",
+      "year": 2012,
+      "paperNums": 100
+    },
+    {
+      "fos": "Deep learning",
+      "year": 2011,
+      "paperNums": 80
+    },
+    {
+      "fos": "Applications of artificial intelligence",
+      "year": 2016,
+      "paperNums": 29
+    },
+    {
+      "fos": "Applications of artificial intelligence",
+      "year": 2013,
+      "paperNums": 26
+    },
+    {
+      "fos": "Applications of artificial intelligence",
+      "year": 2011,
+      "paperNums": 16
+    },
+    {
+      "fos": "Applications of artificial intelligence",
+      "year": 2015,
+      "paperNums": 27
+    },
+    {
+      "fos": "Applications of artificial intelligence",
+      "year": 2014,
+      "paperNums": 23
+    },
+    {
+      "fos": "Applications of artificial intelligence",
+      "year": 2012,
+      "paperNums": 15
+    },
+    {
+      "fos": "Systems biology",
+      "year": 2013,
+      "paperNums": 281
+    },
+    {
+      "fos": "Systems biology",
+      "year": 2014,
+      "paperNums": 264
+    },
+    {
+      "fos": "Systems biology",
+      "year": 2012,
+      "paperNums": 309
+    },
+    {
+      "fos": "Systems biology",
+      "year": 2015,
+      "paperNums": 209
+    },
+    {
+      "fos": "Systems biology",
+      "year": 2011,
+      "paperNums": 305
+    },
+    {
+      "fos": "Systems biology",
+      "year": 2016,
+      "paperNums": 201
+    },
+    {
+      "fos": "Biological data",
+      "year": 2013,
+      "paperNums": 101
+    },
+    {
+      "fos": "Biological data",
+      "year": 2012,
+      "paperNums": 119
+    },
+    {
+      "fos": "Biological data",
+      "year": 2014,
+      "paperNums": 107
+    },
+    {
+      "fos": "Biological data",
+      "year": 2015,
+      "paperNums": 91
+    },
+    {
+      "fos": "Biological data",
+      "year": 2011,
+      "paperNums": 118
+    },
+    {
+      "fos": "Biological data",
+      "year": 2016,
+      "paperNums": 88
+    }
+  ]
+}
