@@ -103,8 +103,8 @@
 
 <script>
     Promise.all([
-        d3.json('https://raw.githubusercontent.com/Euiyeon-Kim/InfoVis_FinalProject/master/small/filtered_paper_num.json'),
-        d3.json('https://raw.githubusercontent.com/Euiyeon-Kim/InfoVis_FinalProject/master/small/filtered_graph.json'),
+        d3.json('https://raw.githubusercontent.com/Euiyeon-Kim/InfoVizFinal/master/small/filtered_paper_num.json'),
+        d3.json('https://raw.githubusercontent.com/Euiyeon-Kim/InfoVizFinal/master/small/filtered_graph.json'),
     ]).then(function (files) {
         const data = files[0]['data']
         const nodeData = files[1]['nodes']
